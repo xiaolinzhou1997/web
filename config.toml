@@ -1,7 +1,7 @@
 baseURL = "https://xiaolinzhou.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Xiaolin Zhou"
 author = "Xiaolin Zhou"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Xiaolin Zhou"
   orgLocal = "Sunderland MA"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Xiaolin's personal website."
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["blog", "project", "talk"]
