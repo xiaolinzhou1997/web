@@ -1,9 +1,9 @@
 ---
-action_label: Read More &rarr;
+action_label: About Me &rarr;
 action_link: /about
 action_type: text
 description: 
-image_left: true
+image_left: false
 images:
 - img/cactus.JPG
 show_action_link: true

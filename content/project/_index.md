@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: FALSE
     text_link_label: View all projects
     text_link_url: /project/
-description: This place serves an incentive for me to do code exercise.
+description: This place serves as an incentive for me to do code exercise.
 layout: list-grid
 show_author_byline: true
 show_button_links: false

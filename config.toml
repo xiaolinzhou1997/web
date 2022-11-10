@@ -29,9 +29,9 @@ enableEmoji = true
     
 [params]
   orgName = "Xiaolin Zhou"
-  orgLocal = "Anywhere"
+  orgLocal = "Sunderland MA"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
+  favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
