@@ -9,7 +9,7 @@ show_intro: true
 intro: |
   I am currently a second year PhD student at the [department of resource economics](https://www.umass.edu/resec/), UMass Amherst. I completed my MS in agricultural and resource economics at :cactus: [Arizona](https://economics.arizona.edu/) while watching [saguaro cactus](https://en.wikipedia.org/wiki/Saguaro) grow slowly every day. 
   
-  My interests in economics all started back when I was an undergraduate in Taiwan, witnessing people marching against nuclear power plants but breathing polluted air emitted by [giant coal fired plants](https://en.wikipedia.org/wiki/Taichung_Power_Plant). Today I explore broad topics in Industrial Organization with a particular focus on electricity market. I write blog posts about my thoughts and fun things I encounter in my academic journey soon, and of course, throw school stuff in [ECON NOTES + CODE](/project/)!
+  My interests in economics all started back when I was an undergraduate in Taiwan, witnessing people marching against nuclear power plants but breathing polluted air emitted by [giant coal fired plants](https://en.wikipedia.org/wiki/Taichung_Power_Plant). Today I explore broad topics in Industrial Organization with a particular focus on electricity market. I write blog posts about my thoughts and fun things I encounter in my academic journey, and of course, throw school stuff in [ECON NOTES + CODE](/project/)!
 show_outro: true
 outro: |
   Click the envelope to shoot me an email, Cheers! </i><i class="fas fa-glass-cheers pr2"></i>
