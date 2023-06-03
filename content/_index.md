@@ -8,7 +8,7 @@ images:
 - img/cactus.JPG
 show_action_link: true
 show_social_links: true
-subtitle: A weirdo you'll (not) want to hang out with
+subtitle:
 text_align_left: false
 title: Xiaolin Zhou
 type: home
